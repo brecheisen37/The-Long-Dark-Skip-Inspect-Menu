@@ -1,7 +1,7 @@
 # Skip Inspection Menu
 
 ## Requirements
-BepInEx
+MelonLoader
 
 ## Installation
 1. Install MelonLoader(visit the Modding Discord for more info https://discord.gg/nHhyaPnr)
